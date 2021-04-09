@@ -3,7 +3,7 @@
 > URI online judge: resolution of the exercises
 
 ## 👋🏻 Welcome guys!
-Here's where I'm going to put some resolutions of the [URIJudge](urionlinejudge.com.br) exercises! <br>
+Here's where I'm going to put some resolutions of the [URIJudge](https://www.urionlinejudge.com.br) exercises! <br>
 **Feel free** to *colaborate!*
 
 ## 👀 Project structure
